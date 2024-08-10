@@ -3,8 +3,6 @@ import 'dart:io';
 import 'package:accessibility/widgets/android_settings.dart';
 import 'package:accessibility/widgets/ios_settings.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 class Settings extends StatefulWidget {
